@@ -1,0 +1,24 @@
+{
+ "v": 2,
+ "作成": "2026-11-14 17:30",
+ "keys": [
+  {
+   "id": "67c3905a145f",
+   "salt": "31DqH6H3SbyRpBE+L+03AQ==",
+   "iter": 1000000,
+   "wrap": "Ik+KxUdKAMdHeQGEmZBjJb3OT+KjUG6wnDcvr6Eoy560JUxM9pe0Fd0lVdGJCmslHYTZBL3YVhgXlFMO"
+  }
+ ],
+ "files": {
+  "2020.bin": "55e715150c",
+  "2021.bin": "90b1826bc1",
+  "2022.bin": "7ad3e81b6b",
+  "2023.bin": "bc2d0fa0ee",
+  "2024.bin": "c236dbbf7b",
+  "2025.bin": "6927545a0a",
+  "2026.bin": "db923d30f3",
+  "add.bin": "f23ac26408",
+  "index.bin": "0a671e845a",
+  "master.bin": "b86746e505"
+ }
+}
